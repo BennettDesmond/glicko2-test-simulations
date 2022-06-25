@@ -14,6 +14,10 @@ The second question related to the accuracy of the Glicko scores. Our use case f
 
 ## Getting Started
 
+### Hosted Version
+
+https://glicko2-test-simulations.vercel.app
+
 ### Dependencies
 
 * [Next JS](https://nextjs.org)
